@@ -1,0 +1,23 @@
+.greeting{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.greeting h1{
+    font-size: 40px;
+}
+.greeting img{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.imgWelcome{
+    background-image: url(https://lh3.googleusercontent.com/p/AF1QipOkubFotoKy3trQGaGaqxsh_PfTpHU5M09ybP3v=s680-w680-h510);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 800px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
